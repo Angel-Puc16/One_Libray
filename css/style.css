@@ -1,0 +1,49 @@
+html{
+   width: 1080px;
+   background-color: rgb(204, 204, 204);
+   padding-left: 6rem;
+}
+.menu{
+   max-width: 250px;
+   width: 250px;
+   background-color: rgb(39, 206, 34);
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+}
+.menu li{
+    margin: 1rem;
+    text-align: justify;
+}
+.menu li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.menu li a:hover{
+    background-color: greenyellow;
+}
+h1{
+    text-align: center;
+    width: 700px;
+    max-width: 720px;
+    float: right;
+    background-color: aqua;
+}
+footer{
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    font-style: bold;
+    height: 2rem;
+    padding-top: 5px;
+}
+.img_1{
+    width: 400px;
+    height: 400px;
+    padding-left: 30rem;
+}
+p{
+    text-align: justify;
+    width: 600px;
+    font-size: 20px;
+    padding-left: 30rem;
+}
